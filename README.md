@@ -1,3 +1,10 @@
+# ⚠️このリポジトリについて
+
+このリポジトリのAtCoderの回答コード以外の部分は
+[hppRCさん](https://github.com/hppRC)の
+[AtCoder-with-Rust-in-mac](https://github.com/hppRC/AtCoder-with-Rust-in-mac)を
+コピーさせていただいたものです。
+
 # AtCoder with Rust in mac
 
 [cargo atcoder](https://github.com/tanakh/cargo-atcoder)を使用させていただいています。

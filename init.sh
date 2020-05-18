@@ -12,7 +12,7 @@ fi
 
 if [ ! $(which cargo-atcoder) ]; then
     # install for cargo-atcoder
-    cargo install --git https://github.com/tanakh/cargo-atcoder.git
+    cargo install cargo-atcoder
 fi
 
 if [ ! $(which cross) ]; then
